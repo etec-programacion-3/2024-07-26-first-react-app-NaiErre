@@ -1,6 +1,6 @@
 function HolaMundo (){
     return( <div>
-    <h1>HolaMundo</h1>
+    <h1 class="titulo">HolaMundo</h1>
     </div>
     )
 }
